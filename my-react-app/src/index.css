@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.student {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  padding: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+  margin-bottom: 10px;
+  background-color: black;
+}
+
+.student p {
+  margin: 10px 0px;
+  color: white;
+}
+
+.divider {
+  background-color: rgb(185, 185, 185);
+  height: 2px;
+  width: 100%;
+  margin: 20px 0px;
+}
+
+.welcome-message {
+  padding: 20px;
+  font-size: 20px;
+  background-color: rgb(0, 186, 0);
+  border-radius: 5px;
+  color: white;
+}
+
+.login-prompt {
+  padding: 20px;
+  font-size: 20px;
+  background-color: rgb(193, 0, 0);
+  border-radius: 5px;
+  color: white;
+}
