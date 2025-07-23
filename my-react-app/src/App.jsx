@@ -10,7 +10,7 @@ function App() {
       <Student name="Tajamul Wani" age={25} isStudent={true} />
       <Student name="Zamin Zahoor" age={26} isStudent={false} />
       <Divider />
-      <UserGreetings isLoggedin={true} username="Malik Arif" />
+      <UserGreetings isLoggedin={true} username="Malik Arif ul Islam" />
     </>
   );
 }
