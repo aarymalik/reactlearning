@@ -2,6 +2,7 @@ import Header from "./header.jsx";
 import Student from "./student.jsx";
 import Divider from "./divider.jsx";
 import UserGreetings from "./UserGreetings.jsx";
+import List from "./List.jsx";
 function App() {
   return (
     <>
@@ -11,6 +12,8 @@ function App() {
       <Student name="Zamin Zahoor" age={26} isStudent={false} />
       <Divider />
       <UserGreetings isLoggedin={true} username="Malik Arif ul Islam" />
+      <Divider />
+      <List />
     </>
   );
 }
